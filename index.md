@@ -3,7 +3,12 @@ layout: default
 title: Student Blog
 ---
 
-
+<style>
+  body {
+    background: black;
+    color: cyan;
+  }
+</style>
 ## About me: Ishan Cornick 
 Hello welcome to my blog! My name is Ishan Cornick and I am 15 years old. I enjoy spending time with my friends, playing video games and golfing. I just started to learn coding and I hope I can learn more.
 
@@ -21,10 +26,6 @@ Hello welcome to my blog! My name is Ishan Cornick and I am 15 years old. I enjo
 3: I lived in Masschusetts but moved here when I was 9.
 
 ![Alt text](<images/e12150731430c8a8d25cdd2eb540dd4c-cc_ft_960.jpg>)
-
-4: My mom is Indian and my dad is American and European.
-
-![Alt text](<images/Screenshot 2023-08-23 at 8.05.20 PM.png>)
 
 5: My favorite celebrity is DJ Khaled.
 
