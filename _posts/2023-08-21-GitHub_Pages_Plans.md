@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: More Detail Plan
+title: Week 1 Plan
 description: Example Plan!!! Analyze hacks and plan.
 type: plans
 courses: { compsci: {week: 1} }
@@ -10,10 +10,10 @@ courses: { compsci: {week: 1} }
 
 ### PBL Unit 1 / Week 1
 Learning outcome. Building a personal and running GitHub Pages.
-- Monday: Schedule Live Review - 4 minutes. Finish Tools setup. Attend Office Hours on HTML, CSS, JS and Student Blog.
-- Tuesday: Read [Markdown Student Page](https://nighthawkcoders.github.io/teacher//c4.3/c5.0/2023/08/17/markdown-html_fragments.html), Attend Office Hours on Updating Home Page and Plan Page.
-- Wednesday: Work Plan Page and Home Page.  Prep with pair on live review.
-- Thursday: 10:45 live review per Canvas.  Read [Linux Shell and Bash](https://nighthawkcoders.github.io/teacher//5.a/c4.1/2023/08/16/linux_shell_IPYNB_2_.html).  Tranfer blog and customize for my lab notebook.
+- Monday: Schedule Live Review - 4 minutes, I schedules my live review for thursday. My computer is expected to come on tuesday and I am just preping
+- Tuesday: Read [Windows set up](https://nighthawkcoders.github.io/teacher//5.a/c4.1/2023/08/16/github_pages_setup_IPYNB_2_.html#macos-setup-macos-setup-only), I just got my computer and I start downloading everything. I Attend Office Hours and got help from peers to get my self boosted to there level.
+- Wednesday: Work Plan Page and Home Page. Me and my partner talked more with each other and helped each other. Lincoln showed me how to fix a problem with my local host and I helped him with inserting pictures and videos. We started prep with on live review by sharing the meaning of our drawings.
+- Thursday: Me and my partner weren't able to do the live review because we ran out of time, we decided to go on friday. With this extra time we added more to our websites like games and calculators. Read [Linux Shell and Bash](https://nighthawkcoders.github.io/teacher//5.a/c4.1/2023/08/16/linux_shell_IPYNB_2_.html).  Me and my partner transfered our local host to a Git Hub running website.
 
 
 ### Pair Planning Meeting
