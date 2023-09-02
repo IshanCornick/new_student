@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Week 0 plan
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: Plans at the start of the class
 type: plans
 courses: { compsci: {week: 0} }
 ---

@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Short cuts
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: Short cut links
 type: hacks
 courses: { compsci: {week: 0} }
 ---
