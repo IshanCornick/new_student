@@ -2,8 +2,8 @@
 toc: true
 comments: false
 layout: post
-title: Review of week 0
-description: The review of all the stuff I did in week 0.
+title: Week 0 Review
+description: A review of the week
 type: tangibles
 courses: { compsci: {week: 0} }
 ---
