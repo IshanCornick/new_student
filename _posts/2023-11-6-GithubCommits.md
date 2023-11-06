@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: My biggest Commits
 description: My biggest commits to the pp
-type: plans
+type: tangibles
 courses: { compsci: {week: 12} }
 ---
 

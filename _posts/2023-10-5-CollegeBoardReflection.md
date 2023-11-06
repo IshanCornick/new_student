@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: College Board
 description: relfection of test
-type: plans
+type: tangibles
 courses: { compsci: {week: 12} }
 ---
 
