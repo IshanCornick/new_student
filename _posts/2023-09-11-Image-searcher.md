@@ -5,7 +5,7 @@ layout: post
 title: Image Searcher
 description: This code allows you to search up images.
 type: hacks
-courses: { compsci: {week: 3} }
+courses: { compsci: {week: 7} }
 ---
 
 <html lang="en">
