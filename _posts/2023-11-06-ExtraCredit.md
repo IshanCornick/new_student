@@ -8,7 +8,6 @@ type: tangibles
 courses: { compsci: {week: 12} }
 ---
 
-## Group #1
 
 # Saaithvik Gumpa, Cayden Shi, Sri Vaidya S and Ryan Liu passion project grading: 
 USAGE OF:
