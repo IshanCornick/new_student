@@ -9,7 +9,7 @@ courses: { compsci: {week: 12} }
 ---
 
 
-## 18 Minute Blog
+## 18 Minute Blog (1075 words/60 words = 17.9 minutes, will fix soon)
 
 
 # Prep
