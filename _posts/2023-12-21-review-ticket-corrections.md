@@ -8,6 +8,10 @@ type: hacks
 courses: { compsci: {week: 12} }
 ---
 
+
+## 18 Minute Blog
+
+
 # Prep
 Preparing for the Computer Science Principles (CSP) 2020 Practice Exam 1 Multiple-Choice Questions (MCQ) on College Board was an intellectually enriching journey that allowed me to delve into the intricate realm of various computer science concepts. The entire preparatory process was not merely an exercise in rote memorization but a comprehensive exploration of fundamental principles that form the bedrock of computer science education.
 
