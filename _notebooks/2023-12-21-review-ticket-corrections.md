@@ -21,6 +21,7 @@ On the day of the CSP 2020 Practice Exam 1 MCQ, I felt well-prepared and confide
 
 In conclusion, the practice exam, despite having no time restriction, provided an opportunity for a holistic learning journey. The combination of individual study, student-led discussions, and teammate collaboration not only improved my academic performance but also underscored the collaborative nature inherent in computer science education.
 
+## Grade: 50/67
 
 ## Corrections
 
