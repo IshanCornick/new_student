@@ -5,7 +5,7 @@ layout: post
 title: Team reivew ticket
 description: pa
 type: hacks
-courses: { compsci: {week: 12} }
+courses: { compsci: {week: 15} }
 ---
 
 <!DOCTYPE html>

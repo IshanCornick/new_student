@@ -5,7 +5,7 @@ layout: post
 title: Binary quiz
 description: This is the diagram
 type: hacks
-courses: { compsci: {week: 12} }
+courses: { compsci: {week: 14} }
 ---
 
 <!DOCTYPE html>

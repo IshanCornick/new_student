@@ -5,7 +5,7 @@ layout: post
 title: Reivew ticket college board quiz
 description: corrections
 type: hacks
-courses: { compsci: {week: 12} }
+courses: { compsci: {week: 16} }
 ---
 
 
