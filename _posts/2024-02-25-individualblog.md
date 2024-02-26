@@ -59,3 +59,4 @@ My feature is the physical hub that helps give tips to the users about how they 
 | Output produced by program: | The quiz giving recommendations and saving to user and database  |
 | My video does not have: | any distinguishing information, voice narration or "mouse wiggle" |
 | My video is | a .mov, less than 1 minute in length, less than 30MB in file size. |
+------
