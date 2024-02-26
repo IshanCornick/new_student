@@ -1,3 +1,14 @@
+---
+toc: true
+comments: true
+layout: post
+title: U5 | Classes | Student P3
+description: writing classes
+type: ccc
+courses: { csa: {week: 9} }
+authors: Rohin, Vardan, Akshat, Vishnu
+---
+
 Condensed Project Overview:
 
 Our project is mainly focused around something everyone in my group enjoys, video games. Video games was something we could all agree on and something we enjoy playing regularly. Even though we all love video games there should only be a certain amount you should play a day, and thats why we made this project. Our project focuses on putting games right next to education and physical hubs so they are easy to access and motivate our users to while enjoying the game to do other things. Our project has features that help and give you tips on physical health and help studying and finding out what level of education you are at, while also letting the users relax and play games.
