@@ -1,11 +1,10 @@
 ---
 toc: True
 comments: True
-layout: post
+layout: default
 title: Individual review 2
 description: review 2
-type: ccc
-courses: {'csa': {'week': 9}}
+courses: {'csp': {'week': 9}}
 ---
 
 Condensed Project Overview:
