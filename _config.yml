@@ -14,10 +14,4 @@ plugins:
 - jekyll-remote-theme
 future: true
 
-<script src="https://utteranc.es/client.js"
-        repo="IshanCornick/new_student"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+
